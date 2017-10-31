@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#Test",
+    "created" : 1509463196970.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "424324327",
+    "id" : "52BE1CA0",
+    "lastKnownWriteTime" : 1509463218,
+    "last_content_update" : 1509463218103,
+    "path" : "~/GitHub/TitanicTest/KaggleTitanic/Main.R",
+    "project_path" : "Main.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
